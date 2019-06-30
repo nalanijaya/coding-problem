@@ -1,0 +1,11 @@
+D:\GitHub\HackerRank\CC1\CC1\bin\Debug\netcoreapp2.1\CC1.deps.json
+D:\GitHub\HackerRank\CC1\CC1\bin\Debug\netcoreapp2.1\CC1.runtimeconfig.json
+D:\GitHub\HackerRank\CC1\CC1\bin\Debug\netcoreapp2.1\CC1.runtimeconfig.dev.json
+D:\GitHub\HackerRank\CC1\CC1\bin\Debug\netcoreapp2.1\CC1.dll
+D:\GitHub\HackerRank\CC1\CC1\bin\Debug\netcoreapp2.1\CC1.pdb
+D:\GitHub\HackerRank\CC1\CC1\obj\Debug\netcoreapp2.1\CC1.csprojAssemblyReference.cache
+D:\GitHub\HackerRank\CC1\CC1\obj\Debug\netcoreapp2.1\CC1.csproj.CoreCompileInputs.cache
+D:\GitHub\HackerRank\CC1\CC1\obj\Debug\netcoreapp2.1\CC1.AssemblyInfoInputs.cache
+D:\GitHub\HackerRank\CC1\CC1\obj\Debug\netcoreapp2.1\CC1.AssemblyInfo.cs
+D:\GitHub\HackerRank\CC1\CC1\obj\Debug\netcoreapp2.1\CC1.dll
+D:\GitHub\HackerRank\CC1\CC1\obj\Debug\netcoreapp2.1\CC1.pdb
